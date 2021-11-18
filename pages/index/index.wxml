@@ -1,0 +1,27 @@
+<!--index.wxml-->
+<view class="container">
+<view class="h1-tlt">
+  欢迎来到网易云商
+</view>
+<view class="u-item">
+<image class="u-img" src="https://ysf.qiyukf.net/operation/b6c2b3d589686a8d1f9559b628056076" /><navigator class="u-nav" url="/pages/dw/index">点击前往</navigator>
+</view>
+<view class="u-item">
+  <image class="u-img" src="https://ysf.qiyukf.net/operation/2e3db8f901fcd571f5f6977225e31d60" /><navigator class="u-nav" url="/pages/zc/index">点击前往</navigator>
+</view>
+<view class="u-item">
+  <image class="u-img" src="https://ysf.qiyukf.net/operation/f9017c4c71f92fbfad85a38c3a51fe47" /><navigator class="u-nav" url="/pages/hk/index">点击前往</navigator>
+</view>
+<view class="u-item">
+  <image class="u-img" src="https://ysf.qiyukf.net/operation/da92b372496c996c927045a66390f6c3" /><navigator class="u-nav" url="/pages/qy/index">点击前往</navigator>
+</view>
+
+<view class="u-item">
+  <navigator class="u-nav" url="/pages/custom/index">上报自定义事件</navigator>
+</view>
+  
+  <!-- <button type="primary" size="20"
+    session-from="nickName={{userInfo.nickName}}|ysf.config= {{ysf.config}}" 
+    show-message-card="true"
+    open-type="contact">联系客服</button> -->
+</view>

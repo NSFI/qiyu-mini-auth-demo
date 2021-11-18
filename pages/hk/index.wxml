@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+<view class="tlt">互客SCRM</view>
+<view class="desc">赋能销售获客转化的一站式 SCRM，从全渠道拓客到多触点沟通，从私域互动转化到客户精细管理，为你计划好每一步销售动作，步步为”赢“，让销售转化更高效</view>
+
+  <button type="primary" size="20"
+    session-from="nickName={{userInfo.nickName}}|ysf.config= {{ysf.config}}" 
+    show-message-card="true"
+    open-type="contact"
+    class="u-btn" >联系客服</button>
+</view>

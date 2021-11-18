@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <button class="btn-1" bindtap='Custom_1'>点击上报自定义事件</button>
+  <button class="btn-2" bindtap='Custom_2'>上报转发事件</button>
+</view>

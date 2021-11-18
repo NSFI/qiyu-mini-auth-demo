@@ -1,0 +1,4 @@
+.btn-1, .btn-2 {
+  width: 500rpx !important;
+  margin-top: 40rpx;
+}

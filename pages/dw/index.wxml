@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+<view class="tlt">定位调研</view>
+<view class="desc">真实专业的用户调研与体验管理平台，提供覆盖亿级用户、颠覆传统调研的精准市场研究服务，洞察消费者真实态度，让营销决策更科学</view>
+
+  <button type="primary" size="20"
+    session-from="nickName={{userInfo.nickName}}|ysf.config= {{ysf.config}}" 
+    show-message-card="true"
+    open-type="contact"
+    class="u-btn" >联系客服</button>
+</view>

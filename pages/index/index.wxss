@@ -1,0 +1,23 @@
+/**index.wxss**/
+.h1-tlt {
+  font-size: 70rpx;
+  margin-bottom: 100rpx;
+}
+.u-item {
+  height: 80rpx;
+  line-height: 80rpx;
+}
+.u-item + .u-item {
+  margin-top: 100rpx;
+}
+.u-img {
+  width: 400rpx;
+  height: 80rpx;
+}
+.u-nav {
+  display: inline-block;
+  margin-left: 20rpx;
+  vertical-align: top;
+  color: #337eff;
+}
+

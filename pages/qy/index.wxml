@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+<view class="tlt">七鱼客服</view>
+<view class="desc">智能驱动的客户服务 SaaS 平台，融合智能机器人、在线客服、售前机器人、呼叫中心、工单等功能，提升企业服务效率，让客户服务更优质</view>
+
+  <button type="primary" size="20"
+    session-from="nickName={{userInfo.nickName}}|ysf.config= {{ysf.config}}" 
+    show-message-card="true"
+    open-type="contact"
+    class="u-btn" >联系客服</button>
+</view>

@@ -1,0 +1,13 @@
+.tlt {
+  font-size: 70rpx;
+  margin-bottom: 100rpx;
+}
+.desc {
+  padding: 0 50rpx;
+  line-height: 2;
+  color: #666;
+  margin-bottom: 60rpx;
+}
+.u-btn {
+  background-color: #337eff !important;
+}
